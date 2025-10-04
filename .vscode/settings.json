@@ -1,0 +1,13 @@
+{
+  "editor.smoothScrolling": true,
+  "terminal.integrated.smoothScrolling": true,
+  "vscode_vibrancy.opacity": -1,
+  "editor.overviewRulerBorder": false,
+  "RainbowBrackets.showBracketsInRuler": true,
+  "highlight-matching-tag.showRuler": false,
+  "color-highlight.markRuler": false,
+  "java.project.sourcePaths": [".", "JDBC_SQL/src"],
+  "java.project.referencedLibraries": [
+    "JDBC_SQL/lib/mysql-connector-j-9.1.0.jar"
+  ]
+}
